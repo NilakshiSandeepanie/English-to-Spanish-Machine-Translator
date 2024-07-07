@@ -1,3 +1,8 @@
+#flask web application
+#flask is a lightweight web framework for Python
+
+#app.py contains the logic of Flask web application. It sets up routes, loads the pre-trained model and tokenizer, and handle translation process
+
 from flask import Flask, render_template, request
 from transformers import MarianMTModel, MarianTokenizer
 
