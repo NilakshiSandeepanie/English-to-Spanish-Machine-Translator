@@ -4,5 +4,7 @@ This project is a simple web application for translating English sentences into 
 Features
 
 Translate English text to Spanish using state-of-the-art machine translation.
+
 User-friendly web interface for inputting text and viewing translations.
+
 Powered by the Helsinki-NLP/opus-mt-en-es model(commonly known as MarianMT model) from Hugging Face.
